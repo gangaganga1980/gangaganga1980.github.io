@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+autoscan-sky.xyz	TRUE	/	FALSE	1999999999	PHPSESSID	mespgdu3gipfa0l8mla4nl2211
+.discordapp.com	TRUE	/	FALSE	1999999999	__cfduid	d8b8bcc5cbf069ee5992c97d615b34a281615594020
+cdn.discordapp.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
